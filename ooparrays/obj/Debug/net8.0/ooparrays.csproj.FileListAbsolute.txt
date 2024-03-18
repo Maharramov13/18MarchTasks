@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\ooparrays\bin\Debug\net8.0\ooparrays.exe
+C:\Users\resul\Desktop\ooparrays\bin\Debug\net8.0\ooparrays.deps.json
+C:\Users\resul\Desktop\ooparrays\bin\Debug\net8.0\ooparrays.runtimeconfig.json
+C:\Users\resul\Desktop\ooparrays\bin\Debug\net8.0\ooparrays.dll
+C:\Users\resul\Desktop\ooparrays\bin\Debug\net8.0\ooparrays.pdb
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.AssemblyInfo.cs
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.dll
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\refint\ooparrays.dll
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.pdb
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ooparrays.genruntimeconfig.cache
+C:\Users\resul\Desktop\ooparrays\obj\Debug\net8.0\ref\ooparrays.dll

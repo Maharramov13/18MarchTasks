@@ -1,0 +1,14 @@
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.AssemblyInfoInputs.cache
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.AssemblyInfo.cs
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.csproj.CoreCompileInputs.cache
+C:\Users\resul\Desktop\OOPTask1\bin\Debug\net8.0\OOPTask1.exe
+C:\Users\resul\Desktop\OOPTask1\bin\Debug\net8.0\OOPTask1.deps.json
+C:\Users\resul\Desktop\OOPTask1\bin\Debug\net8.0\OOPTask1.runtimeconfig.json
+C:\Users\resul\Desktop\OOPTask1\bin\Debug\net8.0\OOPTask1.dll
+C:\Users\resul\Desktop\OOPTask1\bin\Debug\net8.0\OOPTask1.pdb
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.dll
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\refint\OOPTask1.dll
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.pdb
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\OOPTask1.genruntimeconfig.cache
+C:\Users\resul\Desktop\OOPTask1\obj\Debug\net8.0\ref\OOPTask1.dll
